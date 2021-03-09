@@ -1,0 +1,28 @@
+.form-wrapper {
+    width:350px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+
+    input {
+        height: 25px;
+        border-radius: 5px;
+        border: 1px solid blue;
+        outline: none;
+        margin-right: 5px;
+        padding: 5px;
+        font-size: 16px;
+    }
+
+    button {
+        background-color: chartreuse;
+        color: blue;
+        border: none;
+        border-radius: 5px;
+        width: 100px;
+        height: 35px;
+        cursor: pointer;
+        outline: none;
+    }
+
+}
